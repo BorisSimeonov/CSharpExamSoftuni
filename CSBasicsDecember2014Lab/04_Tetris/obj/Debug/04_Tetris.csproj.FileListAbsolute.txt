@@ -1,0 +1,5 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\04_Tetris\bin\Debug\04_Tetris.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\04_Tetris\bin\Debug\04_Tetris.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\04_Tetris\bin\Debug\04_Tetris.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\04_Tetris\obj\Debug\04_Tetris.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\04_Tetris\obj\Debug\04_Tetris.pdb

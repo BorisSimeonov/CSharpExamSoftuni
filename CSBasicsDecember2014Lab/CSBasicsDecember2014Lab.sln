@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Beers", "01_Beers\01_Beers.csproj", "{FB1448BE-38C2-4780-BC34-D7F887A45D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_FunWithMatrices", "02_FunWithMatrices\02_FunWithMatrices.csproj", "{B11D9FD5-9CC2-4DC8-B778-2CEF89016D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ByteParty", "03_ByteParty\03_ByteParty.csproj", "{F99F37B0-E617-4F50-89A1-5BFDD87886DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Tetris", "04_Tetris\04_Tetris.csproj", "{723EDC78-0BDC-4DFC-9B7A-C823E9E01A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1448BE-38C2-4780-BC34-D7F887A45D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1448BE-38C2-4780-BC34-D7F887A45D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1448BE-38C2-4780-BC34-D7F887A45D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1448BE-38C2-4780-BC34-D7F887A45D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11D9FD5-9CC2-4DC8-B778-2CEF89016D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11D9FD5-9CC2-4DC8-B778-2CEF89016D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11D9FD5-9CC2-4DC8-B778-2CEF89016D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11D9FD5-9CC2-4DC8-B778-2CEF89016D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99F37B0-E617-4F50-89A1-5BFDD87886DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99F37B0-E617-4F50-89A1-5BFDD87886DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99F37B0-E617-4F50-89A1-5BFDD87886DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99F37B0-E617-4F50-89A1-5BFDD87886DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723EDC78-0BDC-4DFC-9B7A-C823E9E01A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723EDC78-0BDC-4DFC-9B7A-C823E9E01A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723EDC78-0BDC-4DFC-9B7A-C823E9E01A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723EDC78-0BDC-4DFC-9B7A-C823E9E01A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

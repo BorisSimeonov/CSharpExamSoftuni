@@ -1,0 +1,5 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\02_Headphones\bin\Debug\02_Headphones.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\02_Headphones\bin\Debug\02_Headphones.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\02_Headphones\bin\Debug\02_Headphones.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\02_Headphones\obj\Debug\02_Headphones.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\02_Headphones\obj\Debug\02_Headphones.pdb

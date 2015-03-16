@@ -1,0 +1,5 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\03_SpiralMatrix\bin\Debug\03_SpiralMatrix.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\03_SpiralMatrix\bin\Debug\03_SpiralMatrix.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\03_SpiralMatrix\bin\Debug\03_SpiralMatrix.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\03_SpiralMatrix\obj\Debug\03_SpiralMatrix.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\03_SpiralMatrix\obj\Debug\03_SpiralMatrix.pdb

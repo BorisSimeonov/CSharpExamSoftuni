@@ -1,0 +1,5 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\01_TravellerB\bin\Debug\01_TravellerB.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\01_TravellerB\bin\Debug\01_TravellerB.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\01_TravellerB\bin\Debug\01_TravellerB.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\01_TravellerB\obj\Debug\01_TravellerB.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam19December2014\01_TravellerB\obj\Debug\01_TravellerB.pdb

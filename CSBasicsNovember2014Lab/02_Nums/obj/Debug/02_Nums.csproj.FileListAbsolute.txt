@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\02_Nums\bin\Debug\02_Nums.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\02_Nums\bin\Debug\02_Nums.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\02_Nums\bin\Debug\02_Nums.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\02_Nums\obj\Debug\02_Nums.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\02_Nums\obj\Debug\02_Nums.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\02_Nums\obj\Debug\02_Nums.csprojResolveAssemblyReference.cache

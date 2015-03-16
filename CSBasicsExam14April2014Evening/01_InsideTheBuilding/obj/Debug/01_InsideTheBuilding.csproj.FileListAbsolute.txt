@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam14April2014Evening\01_InsideTheBuilding\bin\Debug\01_InsideTheBuilding.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam14April2014Evening\01_InsideTheBuilding\bin\Debug\01_InsideTheBuilding.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam14April2014Evening\01_InsideTheBuilding\bin\Debug\01_InsideTheBuilding.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam14April2014Evening\01_InsideTheBuilding\obj\Debug\01_InsideTheBuilding.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam14April2014Evening\01_InsideTheBuilding\obj\Debug\01_InsideTheBuilding.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam14April2014Evening\01_InsideTheBuilding\obj\Debug\01_InsideTheBuilding.pdb

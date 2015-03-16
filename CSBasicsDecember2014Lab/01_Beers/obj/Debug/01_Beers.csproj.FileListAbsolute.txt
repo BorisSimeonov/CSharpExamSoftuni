@@ -1,0 +1,5 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\01_Beers\bin\Debug\01_Beers.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\01_Beers\bin\Debug\01_Beers.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\01_Beers\bin\Debug\01_Beers.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\01_Beers\obj\Debug\01_Beers.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsDecember2014Lab\01_Beers\obj\Debug\01_Beers.pdb

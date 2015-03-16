@@ -1,0 +1,5 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\03_BitCopy\bin\Debug\03_BitCopy.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\03_BitCopy\bin\Debug\03_BitCopy.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\03_BitCopy\bin\Debug\03_BitCopy.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\03_BitCopy\obj\Debug\03_BitCopy.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsNovember2014Lab\03_BitCopy\obj\Debug\03_BitCopy.pdb

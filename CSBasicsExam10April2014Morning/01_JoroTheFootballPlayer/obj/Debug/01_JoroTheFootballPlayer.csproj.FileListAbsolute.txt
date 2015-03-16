@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\01_JoroTheFootballPlayer\bin\Debug\01_JoroTheFootballPlayer.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\01_JoroTheFootballPlayer\bin\Debug\01_JoroTheFootballPlayer.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\01_JoroTheFootballPlayer\bin\Debug\01_JoroTheFootballPlayer.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\01_JoroTheFootballPlayer\obj\Debug\01_JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\01_JoroTheFootballPlayer\obj\Debug\01_JoroTheFootballPlayer.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\01_JoroTheFootballPlayer\obj\Debug\01_JoroTheFootballPlayer.pdb

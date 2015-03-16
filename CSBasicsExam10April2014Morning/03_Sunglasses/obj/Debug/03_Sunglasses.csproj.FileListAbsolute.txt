@@ -1,0 +1,5 @@
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\03_Sunglasses\bin\Debug\03_Sunglasses.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\03_Sunglasses\bin\Debug\03_Sunglasses.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\03_Sunglasses\bin\Debug\03_Sunglasses.pdb
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\03_Sunglasses\obj\Debug\03_Sunglasses.exe
+c:\users\boris\documents\visual studio 2012\Projects\CSBasicsExam10April2014Morning\03_Sunglasses\obj\Debug\03_Sunglasses.pdb
